@@ -1,0 +1,5 @@
+# Git Repository Link
+
+Please provide the publicly accessible Git repository link here.
+
+Example: https://github.com/username/test-automation
